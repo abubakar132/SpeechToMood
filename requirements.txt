@@ -1,0 +1,6 @@
+librosa
+scikit-learn
+matplotlib
+joblib
+soundfile
+speechrecognition
